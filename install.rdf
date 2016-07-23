@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+ <Description about="urn:mozilla:install-manifest">
+   <em:id>{5556F97E-11A5-46b0-9082-32AD74AAA920}</em:id>
+   <em:version>0.47</em:version>
+   <em:type>2</em:type>
+   <em:unpack>true</em:unpack>
+   <em:targetApplication><!-- Firefox -->
+     <Description>
+       <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+       <em:minVersion>5.0</em:minVersion>
+       <em:maxVersion>26.*</em:maxVersion>
+     </Description>
+   </em:targetApplication>
+   <em:name>AutoFormer</em:name>
+   <em:description>It loads saved data in forms. Loading is automatic, saving is manual (2 mouse click).</em:description>
+   <em:creator>Mykola Onyschuk</em:creator>
+   <em:contributor>Anton</em:contributor>
+   <em:contributor>Luana Di Muzio</em:contributor>
+   <em:contributor>srxo1978</em:contributor>
+   <em:contributor>Yoko</em:contributor>
+   <em:contributor>Fetofs</em:contributor>
+   <em:contributor>Akuma Kamigami Ryu</em:contributor>
+   <em:contributor>AlleyKat</em:contributor>
+   <em:contributor>Unicorn2</em:contributor>
+   <em:contributor>Teboga</em:contributor>
+   <em:contributor>fang5566</em:contributor>
+   <em:contributor>Aycan Demirel</em:contributor>
+   <em:contributor>Julien</em:contributor>
+   <em:contributor>ooooo</em:contributor>
+   <em:contributor>Drive DRKA</em:contributor>
+   <em:contributor>kami</em:contributor>
+   <em:contributor>Gianny111</em:contributor>
+   <em:contributor>el_libre</em:contributor>
+   <em:contributor>Jakub Tomcnek</em:contributor>
+   <em:contributor>Risse</em:contributor>
+   <em:contributor>wtspout</em:contributor>
+   <em:contributor>milq</em:contributor>
+   <em:contributor>gm</em:contributor>
+   <em:contributor>old.pl.pl</em:contributor>
+   <em:contributor>DakSrbija</em:contributor>
+   <em:homepageURL>http://firefoxer.ru/</em:homepageURL>
+   <em:iconURL>chrome://autoformer/skin/about.png</em:iconURL>
+ </Description>
+</RDF>

@@ -1,0 +1,56 @@
+
+overlay	chrome://browser/content/browser.xul	chrome://autoformer/content/autoformer.xul
+overlay	chrome://navigator/content/navigator.xul	chrome://autoformer/content/autoformer.xul
+content	autoformer	jar:chrome/autoformer.jar!/content/autoformer/
+content	autoformer	jar:chrome/autoformer.jar!/content/autoformer/	contentaccessible=yes
+
+skin	autoformer	classic/1.0	jar:chrome/autoformer.jar!/skin/classic/autoformer/
+
+locale	autoformer	be-BY	jar:chrome/autoformer.jar!/locale/be-BY/autoformer/
+
+locale	autoformer	ca-AD	jar:chrome/autoformer.jar!/locale/ca-AD/autoformer/
+
+locale	autoformer	cs-CZ	jar:chrome/autoformer.jar!/locale/cs-CZ/autoformer/
+
+locale	autoformer	da-DK	jar:chrome/autoformer.jar!/locale/da-DK/autoformer/
+
+locale	autoformer	de-DE	jar:chrome/autoformer.jar!/locale/de-DE/autoformer/
+
+locale	autoformer	en-US	jar:chrome/autoformer.jar!/locale/en-US/autoformer/
+
+locale	autoformer	es-ES	jar:chrome/autoformer.jar!/locale/es-ES/autoformer/
+
+locale	autoformer	fi-FI	jar:chrome/autoformer.jar!/locale/fi-FI/autoformer/
+
+locale	autoformer	fr-FR	jar:chrome/autoformer.jar!/locale/fr-FR/autoformer/
+
+locale	autoformer	hu-HU	jar:chrome/autoformer.jar!/locale/hu-HU/autoformer/
+
+locale	autoformer	it-IT	jar:chrome/autoformer.jar!/locale/it-IT/autoformer/
+
+locale	autoformer	ko-KR	jar:chrome/autoformer.jar!/locale/ko-KR/autoformer/
+
+locale	autoformer	nl-NL	jar:chrome/autoformer.jar!/locale/nl-NL/autoformer/
+
+locale	autoformer	pl-PL	jar:chrome/autoformer.jar!/locale/pl-PL/autoformer/
+
+locale	autoformer	pt-BR	jar:chrome/autoformer.jar!/locale/pt-BR/autoformer/
+
+locale	autoformer	ru-RU	jar:chrome/autoformer.jar!/locale/ru-RU/autoformer/
+
+locale	autoformer	sk-SK	jar:chrome/autoformer.jar!/locale/sk-SK/autoformer/
+
+locale	autoformer	sr-RS	jar:chrome/autoformer.jar!/locale/sr-RS/autoformer/
+
+locale	autoformer	sv-SE	jar:chrome/autoformer.jar!/locale/sv-SE/autoformer/
+
+locale	autoformer	th-TH	jar:chrome/autoformer.jar!/locale/th-TH/autoformer/
+
+locale	autoformer	tr-TR	jar:chrome/autoformer.jar!/locale/tr-TR/autoformer/
+
+locale	autoformer	uk-UA	jar:chrome/autoformer.jar!/locale/uk-UA/autoformer/
+
+locale	autoformer	zh-CN	jar:chrome/autoformer.jar!/locale/zh-CN/autoformer/
+
+locale	autoformer	zh-TW	jar:chrome/autoformer.jar!/locale/zh-TW/autoformer/
+
